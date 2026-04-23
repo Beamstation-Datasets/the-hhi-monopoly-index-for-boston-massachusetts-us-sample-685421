@@ -6,7 +6,7 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Boston, Massachusetts, US",
-  "export_job_id": "0d196b2c-0600-4657-bd5a-ad31d40afc6e",
+  "export_job_id": "a9a3c949-4c7c-405c-b024-b7f6d6064f5b",
   "github_org": "Beamstation-Datasets",
   "id_short": 685421,
   "location_name": "Boston",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/685421/beamstation_685421_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_pct": 9.09,
   "sample_records": 1,
-  "sample_sha256": "40050b275379adca5562f1b0435d305d7d4cdf2ca5a1e90503068244e71a4c18",
-  "sample_size_bytes": 19827,
+  "sample_sha256": "cd8484a6122dc0fab2b208132836c586bd9f5b8e01d74918eb8be724841f4304",
+  "sample_size_bytes": 19834,
   "total_records": 11,
-  "updated_at": "2026-04-14T22:00:00.496514+00:00"
+  "updated_at": "2026-04-22T14:41:12.628644+00:00"
 }
