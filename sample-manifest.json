@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a9a3c949-4c7c-405c-b024-b7f6d6064f5b",
+  "export_job_id": "91827451-2fc0-45a7-a35f-66a893a4196f",
   "id_short": 685421,
-  "published_at": "2026-04-23T07:25:01Z",
+  "published_at": "2026-04-29T19:29:41Z",
   "repo_name": "the-hhi-monopoly-index-for-boston-massachusetts-us-sample-685421",
   "sample_asset_name": "beamstation_685421_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/685421/beamstation_685421_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "cd8484a6122dc0fab2b208132836c586bd9f5b8e01d74918eb8be724841f4304",
-  "sample_size_bytes": 19834,
-  "total_records": 11
+  "sample_sha256": "a99c00df4d1cc2269cc2e95e99abbfcf7647a13ccbada789a9596149acb8a34d",
+  "sample_size_bytes": 19762,
+  "total_records": 10
 }
